@@ -15,7 +15,7 @@ The script reads the HTML filename from the first command-line argument and prin
 Clone the repository:
 
 ```bash
-git clone <(https://github.com/vojtech-jansa/ci2)>
+git clone https://github.com/vojtech-jansa/ci2.git
 cd ci2/A03
 ```
 
