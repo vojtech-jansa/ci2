@@ -1,0 +1,2 @@
+# No external Python packages are required.
+# Open Babel command-line program must be installed separately.
